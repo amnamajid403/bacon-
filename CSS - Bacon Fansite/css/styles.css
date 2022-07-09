@@ -1,0 +1,19 @@
+
+h1 {color: red;
+  font-size: 40px;
+  font-family: cursive;}
+
+  body {background-color: purple;}
+  img {background-color: blue;}
+
+
+   /* class selectors */
+
+ .bacon:hover {
+  background-color: orange;
+}
+ .broccoli { background-color: green;}
+
+/* id selector */
+
+ #heading {color: blue;}
